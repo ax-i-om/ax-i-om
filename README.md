@@ -1,16 +1,42 @@
-### Hi there 👋
+<details>
+  <summary><b>&nbsp;&nbsp;Focuses</b></summary>
+  <br/>
 
-<!--
-**ax-i-om/ax-i-om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Cybersecurity 
+ - Open-Source Intelligence
+ - Operations Security
+ - Open-Source Software Development
+</details> 
 
-Here are some ideas to get you started:
+<details>
+  <summary><b>&nbsp;&nbsp;Skills/Tools</b></summary>
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Golang
+ - HTML, CSS, & JS
+ - Microsoft Office
+ - Git 
+ - VSCode
+</details> 
+
+<details>
+  <summary><b>&nbsp;&nbsp;Certifications</b></summary>
+  <br/>
+
+ - Microsoft Office Specialist: Master
+ - LE-1: Linux Essentials
+</details> 
+
+<details>
+  <summary><b>&nbsp;&nbsp;Connect</b></summary>
+  <br/>
+
+ - **Email**: addressaxiom@pm.me
+</details> 
+
+<details>
+  <summary><b>&nbsp;&nbsp;PGP</b></summary>
+  <br/>
+  
+  ```phold```
+</details> 
