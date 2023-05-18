@@ -32,11 +32,6 @@
   <br/>
 
  - **Email**: addressaxiom@pm.me
-</details> 
-
-<details>
-  <summary><b>&nbsp;&nbsp;PGP</b></summary>
-  <br/>
-  
-  ```phold```
-</details> 
+ - **PGP**: <br>
+```phold```
+</details>
