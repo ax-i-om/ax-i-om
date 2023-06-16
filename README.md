@@ -27,9 +27,19 @@
  - LE-1: Linux Essentials
 </details> 
 
+
+<details>
+  <summary><b>&nbsp;&nbsp;Recent Posts</b></summary>
+  <br>
+  
+ - **Bootleg Buskill** - An Improvised Buskill cable: [https://ax-i-om.github.io/posts/bootleg-buskill/](https://ax-i-om.github.io/posts/bootleg-buskill/)
+</details>
+
 <details>
   <summary><b>&nbsp;&nbsp;Find Me</b></summary>
+  <br>
   
+ - **Website**: https://ax-i-om.github.io
  - **TryHackMe**: https://tryhackme.com/p/axioom
  - **Revolt**: axiom#7452 | **Server**: [https://rvlt.gg/XTjxAVqt](https://rvlt.gg/XTjxAVqt)
  - **Email**: addressaxiom@pm.me
