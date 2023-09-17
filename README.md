@@ -42,7 +42,6 @@
   
  - **Website**: https://ax-i-om.github.io
  - **TryHackMe**: https://tryhackme.com/p/axioom
- - **Revolt**: axiom#7452 | **Server**: [https://rvlt.gg/XTjxAVqt](https://rvlt.gg/XTjxAVqt)
  - **Email**: addressaxiom@pm.me
  - **PGP**: <br>
 ```
