@@ -12,7 +12,7 @@
   <summary><b>&nbsp;&nbsp;Skills/Tools</b></summary>
   <br/>
 
- - Golang
+ - Golang, Python
  - HTML, CSS, & JS
  - Microsoft Office
  - Git 
