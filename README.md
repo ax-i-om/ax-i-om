@@ -31,9 +31,9 @@ Cybersecurity Student and Open-Source Intelligence Enthusiast
   <summary><b>&nbsp;&nbsp;Recent Posts</b></summary>
   <br>
   
- - **Rapture** - A comprehensive guide to self-hosting Rapture, the no-nonsense data breach search interface: [https://ax-i-om.github.io/p/rapture/](https://ax-i-om.github.io/p/rapture/)
- - **Tempest** - Leveraging paste sites as a medium for the discovery of objectionable and infringing materials.: [https://ax-i-om.github.io/p/tempest/](https://ax-i-om.github.io/p/tempest/)
- - **Bootleg Buskill** - An Improvised Buskill cable: [https://ax-i-om.github.io/p/bootleg-buskill/](https://ax-i-om.github.io/p/bootleg-buskill/)
+ - **Rapture** - A comprehensive guide to self-hosting Rapture, the no-nonsense data breach search interface: [https://ax-i-om.github.io/posts/rapture/](https://ax-i-om.github.io/posts/rapture/)
+ - **Tempest** - Leveraging paste sites as a medium for the discovery of objectionable and infringing materials.: [https://ax-i-om.github.io/posts/tempest/](https://ax-i-om.github.io/posts/tempest/)
+ - **Bootleg Buskill** - An Improvised Buskill cable: [https://ax-i-om.github.io/posts/bootleg-buskill/](https://ax-i-om.github.io/posts/bootleg-buskill/)
 </details>
 
 <details>
