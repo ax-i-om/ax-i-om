@@ -1,5 +1,3 @@
-Cybersecurity Student and Open-Source Intelligence Enthusiast
-
 <details>
   <summary><b>&nbsp;&nbsp;Focuses</b></summary>
   <br/>
@@ -23,7 +21,7 @@ Cybersecurity Student and Open-Source Intelligence Enthusiast
   <br/>
 
  - Microsoft Office Specialist: Master
- - CompTIA A+, Network+
+ - CompTIA A+, Network+, Security+
  - LE-1: Linux Essentials
 </details> 
 
